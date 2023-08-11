@@ -1,0 +1,117 @@
+#nationalflag {
+  max-width: 3% !important;
+  margin-top:-1%;
+  clear:both;
+  position:absolute;
+}
+
+nav {
+    text-align:center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:x-large;
+    
+}
+
+head {
+    align-content:center;
+    text-align:center;
+}
+
+body {
+    text-align:left;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-left: 10%;
+    background-image: linear-gradient(rgba(31,124,230))
+}
+
+#homepage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgba(31,124,230),rgb(85,78,217));
+  }
+
+#Griffinpage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgb(236,95,26),rgb(82,32,8));
+}
+
+#middleleft {
+  margin-left:25%;
+}
+
+#nationalflag {
+  width: 4%;
+  float:center;
+}
+
+#introvid {
+  height: 40%;
+  float:right;
+  margin-right: 10%;
+}
+
+#Phoenixpage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgb(163,43,31),rgb(190,135,28),rgb(163,43,31));
+}
+
+#Basiliskpage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgb(15,64,31),rgb(67,104,110));
+}
+
+#Chimerapage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgb(221,61,61),rgb(247,202,137), rgb(95,154,74));
+}
+
+#Leviathanpage {
+  height:100%;
+  width: 100%;
+  background: linear-gradient(to bottom right,rgb(172,193,202),rgb(53,103,126), rgb(6,66,94));
+}
+.center {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 100;
+  }
+
+footer {
+    align-items: bottom;
+    position:fixed;
+    bottom:0;
+    left:0;
+  }
+
+.footer {
+    max-width: 2%;
+    min-height: 10%;
+    min-width: 2% !important;
+    margin-left:1%;
+  }
+
+.youtube {
+  align-items: bottom;
+  position:absolute;
+  bottom:0;
+  right:0;
+  max-width:2%;
+  min-width: 2%;
+  margin-left:1%;
+  }
+
+.left {
+    display:block;
+    margin-left:0;
+    margin-top: 0;
+    float:left;
+    width:10%;
+    left:0;
+    position:fixed;
+  }
